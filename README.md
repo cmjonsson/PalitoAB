@@ -1,0 +1,2 @@
+# PalitoAB
+A simple webpage 
